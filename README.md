@@ -23,23 +23,17 @@ WHEN I open the planner
   WHEN I refresh the page
 - THEN the saved events persist
 
-### Work Completed
+### Usage
 
-- Added and optimized the website title
-- Fixed broken internal links
-- Refactored HTML to make use of semantic elements
-- Removed unnecessary CSS classes
-- Consolidated redundant CSS selectors and properties
-- Re-ordered CSS to follow HTML structure
-- Added alt attributes to images
+This project can be used as a reference for a script that leverages a date and time object for dynamically updated HTML and CSS powered by jQuery. It most notably saves text locally upon a button's click. Additionally, if you choose to build the script, it offers a solution with which you can compare yours.
 
 ### Website Link
 
-https://jonrosenblum.github.io/challenge-1/
+https://jonrosenblum.github.io/Work-Day-Scheduler/
 
 ### Screenshot
 
-![screenshot](./assets/Application%20SS.png)
+![screenshot](./Assets/Screen%20Shot%202022-06-13%20at%2011.12.19%20AM.png)
 
 ## Contact
 
